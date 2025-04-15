@@ -1,4 +1,4 @@
-#🐾 FCC Cats vs Dogs Classifier – CNN with TensorFlow/Keras
+# FCC Cats vs Dogs Classifier – CNN with TensorFlow/Keras
 
 📦 FCC-Cats-Dogs-Image-Classifier
 A convolutional neural network (CNN) built with TensorFlow/Keras to classify images of cats and dogs. Completed as part of FreeCodeCamp’s Machine Learning with Python Certification.
